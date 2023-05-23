@@ -17,6 +17,9 @@ Create a Django App:
 Database Changes:
 - “python manage.py makemigrations” 
 - “python manage.py migrate”
+  
+Create Superuser (admin):
+- “python manage.py createsuperuser”
 
 Run App
 - run application: “python manage.py runserver”
